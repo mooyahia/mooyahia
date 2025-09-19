@@ -20,11 +20,11 @@
 
 ###
 
-<p align="left"><a href="https://github.com/mooyahia" target="_blank">🌐 My Portfolio</a></p>
+<p align="left"><a href="https://github.com/mooyahia" target="_blank" style="text-decoration: none; color: white;" >🌐 My Portfolio</a></p>
 
 ###
 
-<p align="left"><a href="https://drive.google.com/file/d/1llBA_Kvvg8BqsBkmAg1Zir9LA-43THLP/view?usp=drive_link" target="_blank">📄 Check My CV</a></p>
+<p align="left"><a href="https://drive.google.com/file/d/1llBA_Kvvg8BqsBkmAg1Zir9LA-43THLP/view?usp=drive_link" target="_blank" style="text-decoration: none; color: white;">📄 Check My CV</a></p>
 
 ###
 
