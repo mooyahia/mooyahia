@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="left">I'm Mohamed Yahia</h1>
 
-<!--
-**mooyahia/mooyahia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Frontend Developer | HTML, CSS, JavaScript Enthusiast</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">What I offer:</h2>
+
+###
+
+<p align="left">- Custom website design & development (HTML5, CSS3, JavaScript)<br>- Fast, responsive, and mobile-friendly websites<br>- SEO-ready structures to improve visibility<br>- Clear communication and full project management from start to finish</p>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mooyahia.mooyahia&left_text=Profile%20Views"  />
+</div>
+
+###
+
+<p align="left">[🌐 My Portfolio](https://github.com/mooyahia)</p>
+
+###
+
+<p align="left">[📄 Check My CV](https://drive.google.com/file/d/1llBA_Kvvg8BqsBkmAg1Zir9LA-43THLP/view?usp=drive_link)</p>
+
+###
+
+<p align="left">Connect With Me :</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohamed-yahia-17462530b " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:mohamedyahiad8@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/+201018202685" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Language & Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
